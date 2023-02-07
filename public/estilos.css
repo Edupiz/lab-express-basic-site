@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: -moz-radial-gradient(circle, rgba(34,123,173,1) 4%, rgba(126,205,250,1) 70%, rgba(19,69,97,1) 99%, rgba(35,90,121,1) 100%);
+}
+nav > ul {
+    border: 2px solid rgba(0, 205, 300);
+    width: 100%;
+    position: relative; 
+    display: flex;
+    top: 0; 
+    left: 0;
+    margin: 0;
+  justify-content: space-around;
+  padding: 0em;
+  background-color: white;
+  font-weight: 800;
+  list-style: none;
+  }
+  h1{
+    position: relative;
+   text-align: center;
+  }
+  foto_principal{
+    position: relative;
+    margin-left: 37vw;
+  }
+  p{
+    position: relative;
+   text-align: center;
+  }
+#life{
+   position: relative;
+   text-align: center;
+   margin: 20vw;
+  }
+.pelis {
+    position: relative;
+    text-align: center;
+    margin: 20vw;
+      }
+#muchas_fotos{
+    position: relative;
+    flex-wrap: wrap;
+}
